@@ -1,5 +1,10 @@
-# Verdle 
+# Verdle
 
-A Wordle-Style Bible Verse Guessing Game 
+Wordle-Style Bible Verse Guessing Game 
 
-Built using TS Vue
+Built with JavaScript using Deno Runtime
+
+
+## Getting Started 
+```
+```
